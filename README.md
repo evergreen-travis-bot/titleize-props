@@ -1,5 +1,7 @@
 # titleize-props
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/titleize-props.svg)](https://greenkeeper.io/)
+
 <p align="center">
   <br>
   <img src="https://i.imgur.com/Mh13XWB.gif" alt="titleize-props">
