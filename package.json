@@ -2,7 +2,7 @@
   "name": "titleize-props",
   "description": "Capitalize every word in a string prop (excluding links) of a object.",
   "homepage": "https://github.com/Kikobeats/titleize-props",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
@@ -16,7 +16,22 @@
   "bugs": {
     "url": "https://github.com/Kikobeats/titleize-props/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "capitalize",
+    "case",
+    "convert",
+    "dash",
+    "hyphen",
+    "key",
+    "object",
+    "property",
+    "str",
+    "string",
+    "text",
+    "title",
+    "titleize",
+    "uppercase"
+  ],
   "dependencies": {
     "lodash.reduce": "~4.6.0",
     "titleize": "~1.0.0",
